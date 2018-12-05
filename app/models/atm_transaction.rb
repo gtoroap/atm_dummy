@@ -1,0 +1,2 @@
+class AtmTransaction < ApplicationRecord
+end
